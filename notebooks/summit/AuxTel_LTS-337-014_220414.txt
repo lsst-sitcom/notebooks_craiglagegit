@@ -1,0 +1,17 @@
+
+Long Rotation - 210 deg test on Thu Apr 14 17:15:21 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-04-14T17:08:13.628, 2022-04-14T17:08:54.887,208.8,5.06 
+The maximum slew speed is 4.41 deg/s 
+The average slew speed is 4.36 deg/s 
+
+Medium Rotation - 90 deg test on Thu Apr 14 17:17:21 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-04-14T17:15:49.462, 2022-04-14T17:16:16.043,90.0,3.39 
+The maximum slew speed is 4.43 deg/s 
+The average slew speed is 4.38 deg/s 
+
+Short Rotation - 30 deg test on Thu Apr 14 17:18:34 2022 
+Start Time, End Time, Rotation angle (degrees), Rotational speed (degrees/sec) 
+2022-04-14T17:17:40.180, 2022-04-14T17:17:52.764,29.77,2.37 
+The maximum slew speed is 4.33 deg/s 
